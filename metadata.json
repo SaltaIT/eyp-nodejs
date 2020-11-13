@@ -1,7 +1,7 @@
 {
   "name": "eyp-nodejs",
   "version": "0.1.3",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "nodejs and npm plugins",
   "license": "Apache-2.0",
   "source": "",
